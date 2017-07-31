@@ -1,1 +1,2 @@
 This is a test;
+I want to know what will happening when I commit this change and then modify it on master;
