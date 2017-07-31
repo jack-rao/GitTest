@@ -1,2 +1,6 @@
 This is a test;
+<<<<<<< HEAD
 I got it;
+=======
+I want to know what will happening when I commit this change and then modify it on master;
+>>>>>>> dev
